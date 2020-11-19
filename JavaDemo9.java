@@ -1,0 +1,3 @@
+class Java 9
+{
+}
